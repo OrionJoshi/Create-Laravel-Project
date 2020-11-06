@@ -48,3 +48,13 @@ It will create a laravel project folder with name **test** with all the necessar
 
 ![project](./images/image8.PNG)
 
+## Step-5
+
+After creating laravel project we have to use command `php artisan serve`
+![artisan](./images/image10.PNG)
+
+```
+This command will start a development server at http://localhost:8000:
+
+```
+![server](./images/image11.PNG)
