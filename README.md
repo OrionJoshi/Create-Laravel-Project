@@ -10,7 +10,7 @@ Note: You dont need to install PHP separately. PHP is a part of XAMPP. The versi
 
 ```
 
-To make sure that PHP is installed in your computer, open command prompt and Type `php --version`
+To make sure that **PHP** is installed in your computer, open command prompt and Type `php --version`
 
 we can see the php version as below
 
@@ -24,6 +24,15 @@ Composer is an application-level package manager for the PHP programming languag
 ```
 ![composer](./images/image3.PNG)
 
-To make sure that composer is installed in your computer, open command Prompt and Type `composer --version`
+To make sure that **composer** is installed in your computer, open command Prompt and Type `composer --version`
 
 ![c_version](./images/image4.PNG)
+
+## Step-3
+Now go to `c://xammp/htdocs` and **create a folder** (In my case Project)
+
+![folder](./images/image5.PNG)
+
+```After creating folder open it by using any editor (In my case vs_code)```
+
+![folder](./images/image6.PNG)
