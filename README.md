@@ -15,3 +15,15 @@ To make sure that PHP is installed in your computer, open command prompt and Typ
 we can see the php version as below
 
 ![version](./images/image2.PNG)
+
+## Step-2
+Download composer package manager from composer offical website [(composer)](https://getcomposer.org).
+
+```
+Composer is an application-level package manager for the PHP programming language that provides a standard format for managing dependencies of PHP software and required libraries.
+```
+![composer](./images/image3.PNG)
+
+To make sure that composer is installed in your computer, open command Prompt and Type `composer --version`
+
+![c_version](./images/image4.PNG)
