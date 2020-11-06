@@ -36,3 +36,15 @@ Now go to `c://xammp/htdocs` and **create a folder** (In my case Project)
 ```After creating folder open it by using any editor (In my case vs_code)```
 
 ![folder](./images/image6.PNG)
+
+## Step-4
+After opening of folder in an editor, open a terminal and Type `composer create-project --prefer-dist laravel/laravel test
+`
+
+![terminal](./images/image7.PNG)
+
+
+It will create a laravel project folder with name **test** with all the necessary file required to create a laravel project
+
+![project](./images/image8.PNG)
+
